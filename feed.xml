@@ -5,15 +5,27 @@
     <link>https://buycade.com</link>
     <description><![CDATA[Featured collections and products from Buycade.]]></description>
     <language>en-us</language>
-    <copyright>Buycade © 2025</copyright>
-    <lastBuildDate>Thu, 13 Nov 2025 15:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 14:05:00 -0600</lastBuildDate>
     <ttl>180</ttl>
+
+    <!-- NEWEST ITEM FIRST -->
+    <item>
+      <title><![CDATA[🎮 Neon Arcade Board]]></title>
+      <link>https://buycade.com/collections/neon-arcade</link>
+      <guid isPermaLink="true">https://buycade.com/collections/neon-arcade?ver=2</guid>
+      <pubDate>Thu, 13 Nov 2025 14:05:00 -0600</pubDate>
+      <description><![CDATA[
+        ⚡ Neon glow. Futuristic vibes.<br>
+        <a href="https://buycade.com/collections/neon-arcade">Tap to explore</a><br><br>
+        #Buycade #ShoppingIsTheGame
+      ]]></description>
+    </item>
 
     <item>
       <title><![CDATA[🏠 Home Arcade Board]]></title>
       <link>https://buycade.com/collections/home-arcade</link>
       <guid isPermaLink="true">https://buycade.com/collections/home-arcade?ver=1</guid>
-      <pubDate>Thu, 13 Nov 2025 15:00:00 GMT</pubDate>
+      <pubDate>Thu, 13 Nov 2025 14:00:00 -0600</pubDate>
       <description><![CDATA[
         🕹️ Home Arcade Board — new drop just landed.<br>
         <a href="https://buycade.com/collections/home-arcade">Tap to explore</a><br><br>
